@@ -1,6 +1,6 @@
-# Lab7-NoPulse-Data-Repository
+# Lab8-Data-Repository
 
-This repository is to store measurements you make without drive force for lab 7 calibration
+This repository is to store measurements you make for lab 8
 
 **IMPORTANT** This data repository has public access. Anything you put in it can be seen by anyone, anywhere! Don't put anything personal or private in here! 
 
